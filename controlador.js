@@ -200,7 +200,305 @@ let producto20={
     
 }
 
+let producto21={
+    nombre:"Celular Samsung",
+    precio:3200000,
+    estado:true,
+    popularidad:"⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%2021.jfif?alt=media&token=df6504bf-a1fc-48c0-869d-e5f7e9499871"
+    
+}
 
+let producto22={
+    nombre:"Celular Redmi Azul",
+    precio:3400000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Redmi%2022.jfif?alt=media&token=3b24ce09-dbb7-444f-a8f6-d8302b82d19b"
+    
+}
+
+let producto23={
+    nombre:"Celular Huawei Azul",
+    precio:3100000,
+    estado:true,
+    popularidad:"⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Huawei%2023.jfif?alt=media&token=b0c38138-9926-4c9e-92fd-b427d0c51839"
+    
+}
+
+let producto24={
+    nombre:"Celular Samsung A32 Amarillo",
+    precio:3550000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%2024.jfif?alt=media&token=b699445b-45e4-4442-8813-2763430ff152"
+    
+}
+
+let producto25={
+    nombre:"Celular Redmi Mordeno",
+    precio:3450000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Redmi%2025.jfif?alt=media&token=e072d490-033f-41d7-8241-d3129487529c"
+    
+}
+
+let producto26={
+    nombre:"Celular Samsung A13 Amarillo",
+    precio:3350000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%2026.jfif?alt=media&token=9d520e7b-5914-4824-8f3e-fb4bbfdccbd4"
+    
+}
+
+let producto27={
+    nombre:"Celular Iphone 13 Negro",
+    precio:2350000,
+    estado:true,
+    popularidad:"⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Iphone%2013%2027.jfif?alt=media&token=117afc38-996f-4e0f-913f-26473893a2c6"
+    
+}
+
+let producto28={
+    nombre:"Celular Redmi 10",
+    precio:4350000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Redmi%2010%2028.jfif?alt=media&token=5246f54e-980e-4ef6-8782-c71383960af4"
+    
+}
+
+let producto29={
+    nombre:"Celular Redmi 11 Celeste",
+    precio:4550000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Redmi%2011%2029.jfif?alt=media&token=1a9a4a58-33e8-402b-98a7-9d232247e19d"
+    
+}
+
+let producto30={
+    nombre:"Celular Redmi 11 Gris",
+    precio:4550000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Redmi%2011%20Gris%2030.jfif?alt=media&token=ca4b6157-1b32-45d9-afbd-99d3fe81a3b0"
+    
+}
+
+let producto31={
+    nombre:"Celular Samsung A32 Amarillo",
+    precio:3550000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%20A32%2031.jfif?alt=media&token=cea2bd71-ec5c-48a5-9dc5-a7b4c789aa14"
+    
+}
+
+let producto32={
+    nombre:"Celular Moto G20",
+    precio:3650000,
+    estado:true,
+    popularidad:"⭐⭐⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Moto%20G20%2032.jfif?alt=media&token=8f824e8c-7beb-4524-ada0-645996dd0fcd"
+    
+}
+
+let producto33={
+    nombre:"Celular Redmi 9 Azul",
+    precio:3250000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Redmi%209%2033.jfif?alt=media&token=84e1463a-a0ce-4bb6-8018-da21b4325ddd"
+    
+}
+
+let producto34={
+    nombre:"Celular Samsung M32 Azul",
+    precio:3150000,
+    estado:true,
+    popularidad:"⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%20M32%2034.jfif?alt=media&token=23c0ef6c-020f-4c6d-9ac5-beba1bc453f9"
+    
+}
+
+let producto35={
+    nombre:"Celular Iphone 11 Blanco",
+    precio:3250000,
+    estado:true,
+    popularidad:"⭐⭐⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20iphone%2011%2035.jfif?alt=media&token=db971244-bb7c-4048-b35f-81be66ddbfad"
+    
+}
+
+let producto36={
+    nombre:"Celular Xiaomi X3",
+    precio:3250000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Xiaomi%20X3%2036.jfif?alt=media&token=450dc0e5-4633-4fa6-a01d-a84b79740c57"
+    
+}
+
+let producto37={
+    nombre:"Celular Samsung A52 Negro",
+    precio:3230000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%20A52%2037.jfif?alt=media&token=a2279482-2647-4bf3-95e0-5c3c4d222c17"
+    
+}
+
+let producto38={
+    nombre:"Celular Samsung A22 Negro",
+    precio:3130000,
+    estado:true,
+    popularidad:"⭐⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%20A22%2038.jfif?alt=media&token=e0cee7ec-50a3-42e6-829a-1511ce3e6172"
+    
+}
+
+let producto39={
+    nombre:"Celular Iphone 8",
+    precio:1130000,
+    estado:false,
+    popularidad:"⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20iphone%208%20Usado%2039.jfif?alt=media&token=4a89bab2-39e8-4e15-b75e-0ebb0f5a07f5"
+    
+}
+
+let producto40={
+    nombre:"Celular Samsung A52S Rosado",
+    precio:3430000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%20A52S%2040.jfif?alt=media&token=7f1b9fe7-b045-4a0f-8f3c-17cfaa951abf"
+    
+}
+
+let producto41={
+    nombre:"Celular Moto G20 Verde",
+    precio:3250000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Moto%20G20%20Verde%2041.jfif?alt=media&token=9494e3ba-213e-4352-be54-ad7052575e64"
+    
+}
+
+let producto42={
+    nombre:"Celular Moto G31",
+    precio:3530000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Moto%20G31%2042.jfif?alt=media&token=a6e28d0b-ee8c-4181-bb0e-8de9c0e82d08"
+    
+}
+
+let producto43={
+    nombre:"Celular Samsung A12 Blanco",
+    precio:2920000,
+    estado:true,
+    popularidad:"⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%20A12%2043.jfif?alt=media&token=d309984f-43a0-4e36-aab4-df4b79006dae"
+    
+}
+
+let producto44={
+    nombre:"Celular Redmi 11 Negro",
+    precio:3520000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Redmi%2011%20Negro%2044.jfif?alt=media&token=6474b093-f200-4d74-9284-f76873995279"
+    
+}
+
+let producto45={
+    nombre:"Celular Samsung Note 20",
+    precio:3510000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Samsung%20Note20%2045.jfif?alt=media&token=7b740461-6ee2-43b3-b993-cacbe0e4d188"
+    
+}
+
+let producto46={
+    nombre:"Celular Xiaomi X3 Negro",
+    precio:3260000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Xiaomi%20X3%20Negro%2046.jfif?alt=media&token=1cd71530-435d-479f-b55c-7f99acb218a7"
+    
+}
+
+let producto47={
+    nombre:"Celular Iphone Xr",
+    precio:3260000,
+    estado:false,
+    popularidad:"⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20iphone%20Xr%20Usado%2047.jfif?alt=media&token=18f431e5-5527-4c27-a063-4cdeb4d00728"
+    
+}
+
+let producto48={
+    nombre:"Celular Iphone 13 Pro",
+    precio:4260000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐",
+    pais:"corea",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20iphone%2013%20Pro%2048.jfif?alt=media&token=d5d5dbfb-ac73-4e2d-b469-60fecb85c8ef"
+    
+}
+
+let producto49={
+    nombre:"Celular Xiaomi F3",
+    precio:3960000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐⭐",
+    pais:"USA",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20Xiaomi%20F3%2049.jfif?alt=media&token=cae18954-7b89-4e70-9f88-120012688ac2"
+    
+}
+
+let producto50={
+    nombre:"Celular Iphone 13 Rosado",
+    precio:4220000,
+    estado:true,
+    popularidad:"⭐⭐⭐⭐⭐",
+    pais:"china",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-71085.appspot.com/o/Celular%20iphone%2013%20Rosado%2050.jfif?alt=media&token=1e90fc23-8f3d-4936-a885-98981d1596b0"
+    
+}
 
 
 //ARREGLO
@@ -224,7 +522,28 @@ let productos=Array(
     producto17,
     producto18,
     producto19,
-    producto20
+    producto20,
+    producto30,
+    producto31,
+    producto32,
+    producto33,
+    producto34,
+    producto35,
+    producto36,
+    producto37,
+    producto38,
+    producto39,
+    producto40,
+    producto41,
+    producto42,
+    producto43,
+    producto44,
+    producto45,
+    producto46,
+    producto47,
+    producto48,
+    producto49,
+    producto50
 )
 
 let contenedor=document.getElementById("contenedor")
